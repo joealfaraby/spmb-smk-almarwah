@@ -1,0 +1,106 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Roboto:wght@300;400;500;700;900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  padding-top: 2rem;
+/*  font-family: "Roboto", sans-serif;*/
+/*  background-image: url('assets/img/grid.png');*/
+/*  background-repeat: no-repeat;*/
+/*  background-position: 1rem left;*/
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  background-image: url('assets/img/grid.png');
+  background-repeat: no-repeat;
+  background-position: top center;
+/*  background-attachment: fixed;*/
+}
+
+.hero-gradient {
+}
+
+.bg-gradient-1 {
+  background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+}
+
+.bg-gradient-2 {
+  background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+}
+
+.swiper {
+  padding-bottom: 1rem;
+}
+
+.swiper-wrapper {
+  padding-bottom: 0;
+  margin-bottom: 3rem;
+}
+
+.swiper-pagination-bullet {
+  width: 12px;
+  height: 12px;
+  background: #7587A1;
+  opacity: 0.5;
+}
+
+.swiper-pagination-bullet-active {
+  background: #2563EB;
+  opacity: 1;
+}
+
+.bg-dots {
+  background-image: url('assets/img/dots.png');
+  background-repeat: no-repeat;
+  background-position: top right;
+}
+
+.bg-dots-lg {
+  background-image: url('assets/img/dots-lg.png');
+  background-repeat: no-repeat;
+  background-position: top right;
+}
+
+.bg-dots-l-b-lg {
+  background-image: url('assets/img/dots-l-b-lg.png');
+  background-repeat: no-repeat;
+  background-position: -15px 100%;
+}
+
+.bg-dots-r-b-lg {
+  background-image: url('assets/img/dots-r-b-lg.png');
+  background-repeat: no-repeat;
+  background-position: 100% 100%;
+}
+
+@media (min-width: 640px) {
+}
+
+/* Medium screens (md: ≥ 768px) */
+@media (min-width: 768px) {
+  .bg-dots-l-b-lg {
+    background-position: -8px 100%;
+  }
+}
+
+/* Large screens (lg: ≥ 1024px) */
+@media (min-width: 1024px) {
+  .bg-dots-l-b-lg {
+    background-position: 0 102%;
+  }
+
+  .swiper-pagination-bullet {
+    width: 15px;
+    height: 15px;
+  }
+}
+
+/* Extra-large screens (xl: ≥ 1280px) */
+@media (min-width: 1280px) {
+  .bg-dots-l-b-lg {
+    background-position: 0 100%;
+  }
+
+}

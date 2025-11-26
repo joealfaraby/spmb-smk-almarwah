@@ -12,7 +12,7 @@
           </h1>
         
           <p class="text-sm md:text-sm lg:text-base xl:text-lg text-slate-600 mb-10 md:mb-10 lg:mb-14 dark:text-slate-400">
-            SMA PUQ Pameungpeuk dan SMK Almarwah kembali membuka Penerimaan Peserta Didik Baru (PPDB) untuk tahun ajaran <strong>2025-2026</strong>.
+            SMA PUQ Pameungpeuk dan SMK Almarwah kembali membuka Penerimaan Peserta Didik Baru (PPDB) untuk tahun ajaran <strong>2026-2027</strong>.
           </p>
 
           <div class="mb-12 md:mb-0">

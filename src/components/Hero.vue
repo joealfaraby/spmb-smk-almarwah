@@ -20,7 +20,7 @@
               href="https://drive.google.com/drive/folders/1dlh6sTvx4pKjp4lnn4cVDO_whF0Jkvff"
               class="bg-blue-600 hover:bg-blue-700 border border-2 border-blue-600 hover:border-blue-700 rounded-md inline text-sm text-white px-4 py-2.5 mr-3 lg:text-md lg:px-6 lg:py-4 lg:mr-5" 
               >
-              Unduh Formulir
+              Unduh Formulir SPMB
             </a>
 
             <a

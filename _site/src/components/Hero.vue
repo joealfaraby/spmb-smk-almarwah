@@ -8,11 +8,11 @@
       <div class="flex flex-col md:flex-row items-center">
         <div class="flex-1 w-full md:w-5/12">
           <h1 class="text-4xl sm:text-5xl md:text-4xl lg:text-5xl xl:text-6xl text-slate-800 font-bold mb-2 dark:text-blue-500">
-            Penerimaan <span class="block">Peserta Didik Baru</span>
+            Sistem Penerimaan <span class="block">Murid Baru</span>
           </h1>
         
           <p class="text-sm md:text-sm lg:text-base xl:text-lg text-slate-600 mb-10 md:mb-10 lg:mb-14 dark:text-slate-400">
-            SMA PUQ Pameungpeuk dan SMK Almarwah kembali membuka Penerimaan Peserta Didik Baru (PPDB) untuk tahun ajaran <strong>2026-2027</strong>.
+            SMA PUQ Pameungpeuk kembali membuka Sistem Penerimaan Murid Baru (SPMB) untuk tahun ajaran <strong>2026-2027</strong>.
           </p>
 
           <div class="mb-12 md:mb-0">
